@@ -1,2 +1,11 @@
 # LmsUiHackathon
-This project is done in Cucumber/BDD/Selenium/Java/Python
+
+Tools Used are: 
+
+BDD-Cucumber/Behave.
+UI Automation : Selenium java /selenium python.
+Reports 
+Agile process
+CI/CD implementation 
+Git submission 
+
